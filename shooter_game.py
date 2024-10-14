@@ -160,4 +160,4 @@ while game:
         window.blit(live_text,(650,2))
 
     display.update()
-    clock.tick(40)
+    clock.tick(45)
